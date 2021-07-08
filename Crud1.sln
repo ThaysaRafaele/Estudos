@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud.Api", "Crud.Api\Crud.Api.csproj", "{F2F59416-BC27-4DBA-942A-C8899A523515}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud.Web", "Crud.Web\Crud.Web.csproj", "{0DBB3C7C-5D08-4BD0-8509-4E5DE557FF56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2F59416-BC27-4DBA-942A-C8899A523515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F59416-BC27-4DBA-942A-C8899A523515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F59416-BC27-4DBA-942A-C8899A523515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F59416-BC27-4DBA-942A-C8899A523515}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DBB3C7C-5D08-4BD0-8509-4E5DE557FF56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DBB3C7C-5D08-4BD0-8509-4E5DE557FF56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DBB3C7C-5D08-4BD0-8509-4E5DE557FF56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DBB3C7C-5D08-4BD0-8509-4E5DE557FF56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBE56EE8-5194-48B4-8C82-5C90C97F3D84}
+	EndGlobalSection
+EndGlobal
