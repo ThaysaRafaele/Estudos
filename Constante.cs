@@ -9,5 +9,7 @@ namespace Crud.Api
     public class Constante
     {
         public static List<Pessoa> ListaPessoas = new List<Pessoa>();
+
+        public static List<Cardapio> ListaCardapio { get; internal set; }
     }
 }
